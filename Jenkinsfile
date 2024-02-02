@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage ( "Checkout the Project") {
             steps {
-                git branch: 'main', url: 'https://github.com/asecurityguru/devsecops-jenkins-k8s-tf-sast-sonarcloud-repo'
+		git branch: 'main', url:  'https://github.com/Shikhar82/devsecops-jenkins-k8s-tf-sast-sca-sonarcloud-snyk-repo.git'
             }
         }
 		stage ( "Compile and Run Sonar Analysis" ) {
