@@ -311,7 +311,7 @@
       <version>2.2.0</version>
       <inherited>false</inherited>
       <configuration>
-        <org>devsecops</org>
+        <org>shikhar82</org>
       </configuration>
     </plugin>
 <!-- Snyk Changes for SCA Ends Here -->
