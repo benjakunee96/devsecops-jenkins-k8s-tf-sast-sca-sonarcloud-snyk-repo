@@ -303,7 +303,7 @@
 				</executions>
 			</plugin>
 			<!--# Changes for Software Composition Analysis Scan using Snyk
-#By ASecurityGuru
+#By Shikhar Verma
 -->
     <plugin>
       <groupId>io.snyk</groupId>
